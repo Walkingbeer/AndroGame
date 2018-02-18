@@ -214,3 +214,98 @@ LogInit: Object subsystem initialized
 [2018.02.18-13.26.12:316][290]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 11 classes and 0 folders.
 [2018.02.18-13.26.12:318][290]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 1.199
 [2018.02.18-13.26.12:318][290]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.18-13.43.20:501][468]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.18-13.43.20:537][468]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.18-13.51.08:087][580]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube21)
+[2018.02.18-13.51.09:946][744]LogRenderer: Reallocating scene render targets to support 804x272 NumSamples 1 (Frame:121056).
+[2018.02.18-13.51.09:996][745]LogRenderer: Reallocating scene render targets to support 804x300 NumSamples 1 (Frame:121058).
+[2018.02.18-13.51.10:068][746]LogRenderer: Reallocating scene render targets to support 804x320 NumSamples 1 (Frame:121060).
+[2018.02.18-13.51.10:113][747]LogRenderer: Reallocating scene render targets to support 804x344 NumSamples 1 (Frame:121062).
+[2018.02.18-13.51.10:158][748]LogRenderer: Reallocating scene render targets to support 804x360 NumSamples 1 (Frame:121064).
+[2018.02.18-13.51.10:210][749]LogRenderer: Reallocating scene render targets to support 804x372 NumSamples 1 (Frame:121066).
+[2018.02.18-13.51.10:269][750]LogRenderer: Reallocating scene render targets to support 804x380 NumSamples 1 (Frame:121068).
+[2018.02.18-13.51.10:312][751]LogRenderer: Reallocating scene render targets to support 804x388 NumSamples 1 (Frame:121070).
+[2018.02.18-13.51.10:381][752]LogRenderer: Reallocating scene render targets to support 804x396 NumSamples 1 (Frame:121072).
+[2018.02.18-13.51.10:438][753]LogRenderer: Reallocating scene render targets to support 804x404 NumSamples 1 (Frame:121074).
+[2018.02.18-13.51.10:489][754]LogRenderer: Reallocating scene render targets to support 804x412 NumSamples 1 (Frame:121076).
+[2018.02.18-13.51.10:535][755]LogRenderer: Reallocating scene render targets to support 804x416 NumSamples 1 (Frame:121078).
+[2018.02.18-13.51.10:624][757]LogRenderer: Reallocating scene render targets to support 804x420 NumSamples 1 (Frame:121082).
+[2018.02.18-13.51.11:468][841]Cmd: EDIT COPY
+[2018.02.18-13.51.11:725][868]Cmd: EDIT PASTE
+[2018.02.18-13.51.26:803][217]SourceControl: Info On branch master
+[2018.02.18-13.51.26:803][217]SourceControl: Info nothing to commit, working tree clean
+[2018.02.18-13.51.31:142][604]LogSlate: Took 0.000282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.18-13.51.31:527][604]LogSavePackage: Save=202.31ms
+[2018.02.18-13.51.31:527][604]LogSavePackage: Moving '../../../../../../Users/Patrycja/Documents/Unreal Projects/Game/Saved/TopDownExampleMap4C1B51A34541415C9BE30D86D756D969.tmp' to '../../../../../../Users/Patrycja/Documents/Unreal Projects/Game/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.02.18-13.51.31:540][604]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Patrycja/Documents/Unreal Projects/Game/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.02.18-13.51.31:722][604]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.563
+[2018.02.18-13.51.34:017][781]SourceControl: Info fatal: C:/Program Files/Epic Games/UE_4.15/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.15/Engine/Content/' is outside repository
+[2018.02.18-13.51.34:325][781]LogPackageName:Error: Illegal call to DoesPackageExist: '../../../../../../Users/Patrycja/Documents/Unreal Projects/Game/Game.uproject' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.02.18-13.51.34:538][781]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.213 s
+[2018.02.18-13.51.34:538][781]LogOutputDevice:Error: === Handled ensure: ===
+[2018.02.18-13.51.34:538][781]LogOutputDevice:Error: 
+[2018.02.18-13.51.34:538][781]LogOutputDevice:Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.15+Compile\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\PackageName.cpp] [Line: 650]
+[2018.02.18-13.51.34:538][781]LogOutputDevice:Error: Illegal call to DoesPackageExist: '../../../../../../Users/Patrycja/Documents/Unreal Projects/Game/Game.uproject' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.02.18-13.51.34:538][781]LogOutputDevice:Error: Stack: 
+[2018.02.18-13.51.34:538][781]LogOutputDevice:Error: UE4Editor-Core.dll!0x00000000E75C95E6
+[2018.02.18-13.51.34:538][781]LogOutputDevice:Error: UE4Editor-Core.dll!0x00000000E7379B82
+[2018.02.18-13.51.34:538][781]LogOutputDevice:Error: UE4Editor-Core.dll!0x00000000E738B666
+[2018.02.18-13.51.34:538][781]LogOutputDevice:Error: UE4Editor-CoreUObject.dll!0x00000000E7E7A6E8
+[2018.02.18-13.51.34:538][781]LogOutputDevice:Error: UE4Editor-SourceControl.dll!0x00000000D71C3D22
+[2018.02.18-13.51.34:538][781]LogOutputDevice:Error: UE4Editor-SourceControl.dll!0x00000000D71C3EB9
+[2018.02.18-13.51.34:538][781]LogOutputDevice:Error: UE4Editor-SourceControlWindows.dll!0x00000000D3E61D2E
+[2018.02.18-13.51.34:538][781]LogOutputDevice:Error: UE4Editor-SourceControlWindows.dll!0x00000000D3E1B4B5
+[2018.02.18-13.51.34:538][781]LogOutputDevice:Error: UE4Editor-SourceControlWindows.dll!0x00000000D3E1AA8D
+[2018.02.18-13.51.34:538][781]LogOutputDevice:Error: UE4Editor-SourceControlWindows.dll!0x00000000D3E2F274
+[2018.02.18-13.51.34:538][781]LogOutputDevice:Error: UE4Editor-GitSourceControl.dll!0x00000000C866B851
+[2018.02.18-13.51.34:538][781]LogOutputDevice:Error: UE4Editor-GitSourceControl.dll!0x00000000C867D1ED
+[2018.02.18-13.51.34:538][781]LogOutputDevice:Error: UE4Editor-SourceControl.dll!0x00000000D71C9C5C
+[2018.02.18-13.51.34:538][781]LogOutputDevice:Error: UE4Editor-UnrealEd.dll!0x00000000DA9C7517
+[2018.02.18-13.51.34:538][781]LogOutputDevice:Error: UE4Editor-UnrealEd.dll!0x00000000DB1D2196
+[2018.02.18-13.51.34:538][781]LogOutputDevice:Error: UE4Editor.exe!0x000000003FA8DEE3
+[2018.02.18-13.51.34:538][781]LogOutputDevice:Error: UE4Editor.exe!0x000000003FA7EB40
+[2018.02.18-13.51.34:538][781]LogOutputDevice:Error: UE4Editor.exe!0x000000003FA7EBBA
+[2018.02.18-13.51.34:538][781]LogOutputDevice:Error: UE4Editor.exe!0x000000003FA90A29
+[2018.02.18-13.51.34:538][781]LogOutputDevice:Error: UE4Editor.exe!0x000000003FA922B6
+[2018.02.18-13.51.34:538][781]LogOutputDevice:Error: kernel32.dll!0x00000000774859CD
+[2018.02.18-13.51.34:538][781]LogOutputDevice:Error: ntdll.dll!0x00000000776E383D
+[2018.02.18-13.51.34:538][781]LogOutputDevice:Error: 
+[2018.02.18-13.51.34:548][781]LogStats:                SubmitErrorReport -  0.000 s
+[2018.02.18-13.51.35:012][781]LogStats:                    SendNewReport -  0.464 s
+[2018.02.18-13.51.35:012][781]LogStats:             FDebug::EnsureFailed -  0.687 s
+[2018.02.18-13.51.42:993][781]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.02.18-13.51.43:063][781]SourceControl: Info [master 19d2b7c] zmiany
+[2018.02.18-13.51.43:063][781]SourceControl: Info  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.02.18-13.51.43:069][781]SourceControl: Info Commited [master 19d2b7c] zmiany.
+[2018.02.18-13.51.57:894][ 99]Cmd: DELETE
+[2018.02.18-13.51.57:894][ 99]Cmd: ACTOR DELETE
+[2018.02.18-13.51.57:895][ 99]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.02.18-13.51.57:924][ 99]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2018.02.18-13.52.01:113][366]LogSavePackage: Save=188.58ms
+[2018.02.18-13.52.01:113][366]LogSavePackage: Moving '../../../../../../Users/Patrycja/Documents/Unreal Projects/Game/Saved/TopDownExampleMap34C5F540463EE556D58D66BEA8327858.tmp' to '../../../../../../Users/Patrycja/Documents/Unreal Projects/Game/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.02.18-13.52.01:122][366]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Patrycja/Documents/Unreal Projects/Game/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.02.18-13.52.01:159][366]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.384
+[2018.02.18-13.52.03:841][616]SourceControl: Info fatal: C:/Program Files/Epic Games/UE_4.15/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.15/Engine/Content/' is outside repository
+[2018.02.18-13.52.04:084][616]LogPackageName:Error: Illegal call to DoesPackageExist: '../../../../../../Users/Patrycja/Documents/Unreal Projects/Game/Game.uproject' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.02.18-13.52.11:458][616]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.02.18-13.52.11:528][616]SourceControl: Info [master 771bea3] poprawki zmian
+[2018.02.18-13.52.11:528][616]SourceControl: Info  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.02.18-13.52.11:534][616]SourceControl: Info Commited [master 771bea3] poprawki zmian.
+[2018.02.18-14.00.05:395][496]LogTemp: Repeting last play command: Selected Viewport
+[2018.02.18-14.00.05:414][496]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.18-14.00.05:414][496]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.18-14.00.05:414][496]PIE: New page: PIE session: TopDownExampleMap (Feb 18, 2018, 4:00:05 PM)
+[2018.02.18-14.00.05:414][496]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.02.18-14.00.05:455][496]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040704s)
+[2018.02.18-14.00.05:456][496]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.02.18-14.00.05:456][496]LogPlayLevel: PIE: World Init took: (0.001385s)
+[2018.02.18-14.00.05:457][496]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.042435s)
+[2018.02.18-14.00.05:499][496]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.18-14.00.05:515][496]LogInit: FAudioDevice initialized.
+[2018.02.18-14.00.05:545][496]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.02.18-14.00.05:548][496]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2018.02.18-15.00.05
+[2018.02.18-14.00.05:549][496]LogWorld: Bringing up level for play took: 0.003389
+[2018.02.18-14.00.05:550][496]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.407
+[2018.02.18-14.00.05:551][496]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.18-14.45.57:317][770]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.18-14.45.57:355][770]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
