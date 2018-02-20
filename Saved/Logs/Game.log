@@ -762,3 +762,6 @@ Exception rethrown at [0]:
 [2018.02.20-12.58.30:598][285]LogStats:                SubmitErrorReport -  0.000 s
 [2018.02.20-12.58.42:564][285]LogStats:                    SendNewReport - 11.966 s
 [2018.02.20-12.58.42:564][285]LogStats:             FDebug::EnsureFailed - 13.097 s
+[2018.02.20-13.03.03:444][285]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.02.20-13.03.03:701][285]SourceControl:Error: Error fatal: cannot do a partial commit during a merge.
+[2018.02.20-13.03.03:718][285]SourceControl: Info Submitted revision.
