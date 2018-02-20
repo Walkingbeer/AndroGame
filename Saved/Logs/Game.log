@@ -246,3 +246,519 @@ LogInit: Object subsystem initialized
 [2018.02.20-12.36.26:853][157]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
 [2018.02.20-12.37.08:765][385]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
 [2018.02.20-12.37.08:917][385]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.20-12.40.54:734][649]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.20-12.40.54:869][649]LogAssetTools:Warning: Failed to import 'C:\Users\Kamil\Documents\Unreal Projects\AndroGame\Content\TopDownBP\Blueprints\RPG_HUD.uasset'. Unknown extension 'uasset'.
+[2018.02.20-12.40.54:870][649]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.20-12.46.51:996][522]LogAssetTools:Warning: Failed to import '../../../../../../Users/Kamil/Desktop/RPG_HUD.COPY'. Unknown extension 'COPY'.
+[2018.02.20-12.47.45:093][878]LogBlueprint:Warning: [RPG_HUD] 'Mana' variable not found. Base class was probably changed.
+[2018.02.20-12.47.45:093][878]LogBlueprint:Warning: [RPG_HUD] 'Health' variable not found. Base class was probably changed.
+[2018.02.20-12.47.45:094][878]LogBlueprint:Warning: [RPG_HUD] 'Melee1H' variable not found. Base class was probably changed.
+[2018.02.20-12.47.45:094][878]LogBlueprint:Warning: [RPG_HUD] 'Melee1H' variable not found. Base class was probably changed.
+[2018.02.20-12.47.45:094][878]LogBlueprint:Warning: [RPG_HUD] 'Melee1H' variable not found. Base class was probably changed.
+[2018.02.20-12.47.45:094][878]LogBlueprint:Warning: [RPG_HUD] 'Melee1H' variable not found. Base class was probably changed.
+[2018.02.20-12.47.45:094][878]LogBlueprint:Warning: [RPG_HUD] 'Mana' variable not found. Base class was probably changed.
+[2018.02.20-12.47.45:094][878]LogBlueprint:Warning: [RPG_HUD] 'Mana' variable not found. Base class was probably changed.
+[2018.02.20-12.47.45:094][878]LogBlueprint:Warning: [RPG_HUD] 'Mana' variable not found. Base class was probably changed.
+[2018.02.20-12.47.45:094][878]LogBlueprint:Warning: [RPG_HUD] 'Mana' variable not found. Base class was probably changed.
+[2018.02.20-12.47.45:124][878]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Mana
+[2018.02.20-12.47.45:124][878]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Mana
+[2018.02.20-12.47.45:125][878]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Set Mana
+[2018.02.20-12.47.45:125][878]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Melee1H" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Set Melee1H
+[2018.02.20-12.47.45:125][878]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Melee1H" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Set Melee1H
+[2018.02.20-12.47.45:126][878]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Health" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Health
+[2018.02.20-12.47.45:126][878]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Mana
+[2018.02.20-12.47.45:139][878]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Melee 1H  could not be found
+[2018.02.20-12.47.45:139][878]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Mana  could not be found
+[2018.02.20-12.47.45:140][878]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Mana  could not be found
+[2018.02.20-12.47.45:140][878]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Mana  could not be found
+[2018.02.20-12.47.45:141][878]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Melee 1H  could not be found
+[2018.02.20-12.47.45:142][878]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Health  could not be found
+[2018.02.20-12.47.45:142][878]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Mana  could not be found
+[2018.02.20-12.47.45:152][878]LogBlueprint:Warning: [Compiler RPG_HUD] Warning [0862.55] Compile of RPG_HUD failed. 7 Fatal Issue(s) 7 Warning(s) [in 55 ms] (/Game/TopDownBP/Blueprints/RPG_HUD.RPG_HUD)
+[2018.02.20-12.47.45:152][878]LogBlueprint:Warning: [Compiler RPG_HUD] Warning [0862.55] Compile of RPG_HUD failed. 7 Fatal Issue(s) 8 Warning(s) [in 0 ms] (/Game/TopDownBP/Blueprints/RPG_HUD.RPG_HUD)
+[2018.02.20-12.47.45:152][878]LogBlueprint:Warning: [Compiler RPG_HUD] Warning [0862.55] Compile of RPG_HUD failed. 7 Fatal Issue(s) 9 Warning(s) [in 0 ms] (/Game/TopDownBP/Blueprints/RPG_HUD.RPG_HUD)
+[2018.02.20-12.47.45:153][878]LogBlueprint:Warning: [RPG_HUD] 'Health' variable not found. Base class was probably changed.
+[2018.02.20-12.47.45:153][878]LogBlueprint:Warning: [RPG_HUD] 'Mana' variable not found. Base class was probably changed.
+[2018.02.20-12.47.45:154][878]LogBlueprint:Warning: [RPG_HUD] 'Melee1H' variable not found. Base class was probably changed.
+[2018.02.20-12.47.45:154][878]LogBlueprint:Warning: [RPG_HUD] 'Melee1H' variable not found. Base class was probably changed.
+[2018.02.20-12.47.45:154][878]LogBlueprint:Warning: [RPG_HUD] 'Melee1H' variable not found. Base class was probably changed.
+[2018.02.20-12.47.45:154][878]LogBlueprint:Warning: [RPG_HUD] 'Melee1H' variable not found. Base class was probably changed.
+[2018.02.20-12.47.45:154][878]LogBlueprint:Warning: [RPG_HUD] 'Mana' variable not found. Base class was probably changed.
+[2018.02.20-12.47.45:154][878]LogBlueprint:Warning: [RPG_HUD] 'Mana' variable not found. Base class was probably changed.
+[2018.02.20-12.47.45:154][878]LogBlueprint:Warning: [RPG_HUD] 'Mana' variable not found. Base class was probably changed.
+[2018.02.20-12.47.45:154][878]LogBlueprint:Warning: [RPG_HUD] 'Mana' variable not found. Base class was probably changed.
+[2018.02.20-12.47.46:081][878]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.20-12.47.47:347][878]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0026 seconds. Added 112 classes and 0 folders.
+[2018.02.20-12.47.50:944][878]LogSlate: Took 0.070326 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.20-12.47.57:327][933]BlueprintLog: New page: Compile RPG_HUD
+[2018.02.20-12.47.57:473][933]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Mana
+[2018.02.20-12.47.57:473][933]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Mana
+[2018.02.20-12.47.57:473][933]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Set Mana
+[2018.02.20-12.47.57:474][933]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Melee1H" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Set Melee1H
+[2018.02.20-12.47.57:474][933]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Melee1H" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Set Melee1H
+[2018.02.20-12.47.57:475][933]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Health" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Health
+[2018.02.20-12.47.57:476][933]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Mana
+[2018.02.20-12.47.57:476][933]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Melee 1H  could not be found
+[2018.02.20-12.47.57:477][933]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Mana  could not be found
+[2018.02.20-12.47.57:477][933]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Mana  could not be found
+[2018.02.20-12.47.57:477][933]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Mana  could not be found
+[2018.02.20-12.47.57:478][933]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Melee 1H  could not be found
+[2018.02.20-12.47.57:479][933]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Health  could not be found
+[2018.02.20-12.47.57:479][933]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Mana  could not be found
+[2018.02.20-12.47.57:947][933]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Mana
+[2018.02.20-12.47.57:947][933]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Mana
+[2018.02.20-12.47.57:947][933]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Set Mana
+[2018.02.20-12.47.57:947][933]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Melee1H" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Set Melee1H
+[2018.02.20-12.47.57:947][933]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Melee1H" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Set Melee1H
+[2018.02.20-12.47.57:947][933]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Health" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Health
+[2018.02.20-12.47.57:947][933]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Mana
+[2018.02.20-12.47.57:947][933]BlueprintEditorCompileResults:Error: Error The property associated with  Melee 1H  could not be found
+[2018.02.20-12.47.57:947][933]BlueprintEditorCompileResults:Error: Error The property associated with  Mana  could not be found
+[2018.02.20-12.47.57:947][933]BlueprintEditorCompileResults:Error: Error The property associated with  Mana  could not be found
+[2018.02.20-12.47.57:947][933]BlueprintEditorCompileResults:Error: Error The property associated with  Mana  could not be found
+[2018.02.20-12.47.57:947][933]BlueprintEditorCompileResults:Error: Error The property associated with  Melee 1H  could not be found
+[2018.02.20-12.47.57:947][933]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  Cast Failed
+[2018.02.20-12.47.57:947][933]BlueprintEditorCompileResults:Error: Error The property associated with  Health  could not be found
+[2018.02.20-12.47.57:947][933]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  Cast Failed
+[2018.02.20-12.47.57:947][933]BlueprintEditorCompileResults:Error: Error The property associated with  Mana  could not be found
+[2018.02.20-12.47.57:947][933]LogBlueprint:Warning: [Compiler RPG_HUD] Warning [0875.35] Compile of RPG_HUD failed. 7 Fatal Issue(s) 7 Warning(s) [in 619 ms] (/Game/TopDownBP/Blueprints/RPG_HUD.RPG_HUD)
+[2018.02.20-12.48.01:893][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/RPG_HUD" FILE="../../../../../../Users/Kamil/Desktop/Repo_Mati/Content/TopDownBP/Blueprints/RPG_HUD.uasset" SILENT=true
+[2018.02.20-12.48.02:048][964]LogSavePackage: Save=105.18ms
+[2018.02.20-12.48.02:048][964]LogSavePackage: Moving '../../../../../../Users/Kamil/Desktop/Repo_Mati/Saved/RPG_HUD91DE7AA343D85C30A9A74FBCEF7EB791.tmp' to '../../../../../../Users/Kamil/Desktop/Repo_Mati/Content/TopDownBP/Blueprints/RPG_HUD.uasset'
+[2018.02.20-12.48.02:061][964]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Kamil/Desktop/Repo_Mati/Content/TopDownBP/Blueprints/RPG_HUD.uasset
+[2018.02.20-12.48.04:516][985]BlueprintLog: New page: Compile RPG_HUD
+[2018.02.20-12.48.04:722][985]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Mana
+[2018.02.20-12.48.04:722][985]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Mana
+[2018.02.20-12.48.04:722][985]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Set Mana
+[2018.02.20-12.48.04:722][985]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Melee1H" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Set Melee1H
+[2018.02.20-12.48.04:722][985]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Melee1H" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Set Melee1H
+[2018.02.20-12.48.04:723][985]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Health" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Health
+[2018.02.20-12.48.04:724][985]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Mana
+[2018.02.20-12.48.04:725][985]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Melee 1H  could not be found
+[2018.02.20-12.48.04:725][985]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Mana  could not be found
+[2018.02.20-12.48.04:725][985]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Mana  could not be found
+[2018.02.20-12.48.04:725][985]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Mana  could not be found
+[2018.02.20-12.48.04:726][985]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Melee 1H  could not be found
+[2018.02.20-12.48.04:726][985]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Health  could not be found
+[2018.02.20-12.48.04:727][985]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Mana  could not be found
+[2018.02.20-12.48.05:015][985]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Mana
+[2018.02.20-12.48.05:015][985]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Mana
+[2018.02.20-12.48.05:015][985]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Set Mana
+[2018.02.20-12.48.05:015][985]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Melee1H" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Set Melee1H
+[2018.02.20-12.48.05:015][985]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Melee1H" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Set Melee1H
+[2018.02.20-12.48.05:015][985]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Health" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Health
+[2018.02.20-12.48.05:015][985]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Mana
+[2018.02.20-12.48.05:015][985]BlueprintEditorCompileResults:Error: Error The property associated with  Melee 1H  could not be found
+[2018.02.20-12.48.05:015][985]BlueprintEditorCompileResults:Error: Error The property associated with  Mana  could not be found
+[2018.02.20-12.48.05:015][985]BlueprintEditorCompileResults:Error: Error The property associated with  Mana  could not be found
+[2018.02.20-12.48.05:015][985]BlueprintEditorCompileResults:Error: Error The property associated with  Mana  could not be found
+[2018.02.20-12.48.05:016][985]BlueprintEditorCompileResults:Error: Error The property associated with  Melee 1H  could not be found
+[2018.02.20-12.48.05:016][985]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  Cast Failed
+[2018.02.20-12.48.05:016][985]BlueprintEditorCompileResults:Error: Error The property associated with  Health  could not be found
+[2018.02.20-12.48.05:016][985]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  Cast Failed
+[2018.02.20-12.48.05:016][985]BlueprintEditorCompileResults:Error: Error The property associated with  Mana  could not be found
+[2018.02.20-12.48.05:016][985]LogBlueprint:Warning: [Compiler RPG_HUD] Warning [0882.42] Compile of RPG_HUD failed. 7 Fatal Issue(s) 7 Warning(s) [in 500 ms] (/Game/TopDownBP/Blueprints/RPG_HUD.RPG_HUD)
+[2018.02.20-12.48.08:980][ 15]BlueprintLog: New page: Compile RPG_HUD
+[2018.02.20-12.48.09:010][ 15]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Mana
+[2018.02.20-12.48.09:011][ 15]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Mana
+[2018.02.20-12.48.09:011][ 15]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Set Mana
+[2018.02.20-12.48.09:011][ 15]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Melee1H" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Set Melee1H
+[2018.02.20-12.48.09:011][ 15]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Melee1H" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Set Melee1H
+[2018.02.20-12.48.09:012][ 15]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Health" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Health
+[2018.02.20-12.48.09:012][ 15]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Mana
+[2018.02.20-12.48.09:013][ 15]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Melee 1H  could not be found
+[2018.02.20-12.48.09:013][ 15]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Mana  could not be found
+[2018.02.20-12.48.09:013][ 15]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Mana  could not be found
+[2018.02.20-12.48.09:013][ 15]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Mana  could not be found
+[2018.02.20-12.48.09:014][ 15]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Melee 1H  could not be found
+[2018.02.20-12.48.09:014][ 15]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Health  could not be found
+[2018.02.20-12.48.09:015][ 15]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Mana  could not be found
+[2018.02.20-12.48.09:309][ 15]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Mana
+[2018.02.20-12.48.09:309][ 15]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Mana
+[2018.02.20-12.48.09:309][ 15]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Set Mana
+[2018.02.20-12.48.09:309][ 15]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Melee1H" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Set Melee1H
+[2018.02.20-12.48.09:309][ 15]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Melee1H" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Set Melee1H
+[2018.02.20-12.48.09:309][ 15]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Health" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Health
+[2018.02.20-12.48.09:309][ 15]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Mana
+[2018.02.20-12.48.09:309][ 15]BlueprintEditorCompileResults:Error: Error The property associated with  Melee 1H  could not be found
+[2018.02.20-12.48.09:309][ 15]BlueprintEditorCompileResults:Error: Error The property associated with  Mana  could not be found
+[2018.02.20-12.48.09:309][ 15]BlueprintEditorCompileResults:Error: Error The property associated with  Mana  could not be found
+[2018.02.20-12.48.09:309][ 15]BlueprintEditorCompileResults:Error: Error The property associated with  Mana  could not be found
+[2018.02.20-12.48.09:309][ 15]BlueprintEditorCompileResults:Error: Error The property associated with  Melee 1H  could not be found
+[2018.02.20-12.48.09:309][ 15]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  Cast Failed
+[2018.02.20-12.48.09:310][ 15]BlueprintEditorCompileResults:Error: Error The property associated with  Health  could not be found
+[2018.02.20-12.48.09:310][ 15]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  Cast Failed
+[2018.02.20-12.48.09:310][ 15]BlueprintEditorCompileResults:Error: Error The property associated with  Mana  could not be found
+[2018.02.20-12.48.09:310][ 15]LogBlueprint:Warning: [Compiler RPG_HUD] Warning [0886.71] Compile of RPG_HUD failed. 7 Fatal Issue(s) 7 Warning(s) [in 329 ms] (/Game/TopDownBP/Blueprints/RPG_HUD.RPG_HUD)
+[2018.02.20-12.48.09:413][ 16]BlueprintLog: New page: Compile RPG_HUD
+[2018.02.20-12.48.09:534][ 16]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Mana
+[2018.02.20-12.48.09:535][ 16]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Mana
+[2018.02.20-12.48.09:535][ 16]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Set Mana
+[2018.02.20-12.48.09:535][ 16]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Melee1H" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Set Melee1H
+[2018.02.20-12.48.09:535][ 16]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Melee1H" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Set Melee1H
+[2018.02.20-12.48.09:537][ 16]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Health" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Health
+[2018.02.20-12.48.09:537][ 16]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Mana
+[2018.02.20-12.48.09:538][ 16]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Melee 1H  could not be found
+[2018.02.20-12.48.09:538][ 16]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Mana  could not be found
+[2018.02.20-12.48.09:538][ 16]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Mana  could not be found
+[2018.02.20-12.48.09:538][ 16]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Mana  could not be found
+[2018.02.20-12.48.09:539][ 16]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Melee 1H  could not be found
+[2018.02.20-12.48.09:539][ 16]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Health  could not be found
+[2018.02.20-12.48.09:540][ 16]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Mana  could not be found
+[2018.02.20-12.48.09:830][ 16]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Mana
+[2018.02.20-12.48.09:830][ 16]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Mana
+[2018.02.20-12.48.09:830][ 16]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Set Mana
+[2018.02.20-12.48.09:830][ 16]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Melee1H" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Set Melee1H
+[2018.02.20-12.48.09:830][ 16]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Melee1H" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Set Melee1H
+[2018.02.20-12.48.09:830][ 16]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Health" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Health
+[2018.02.20-12.48.09:830][ 16]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Mana
+[2018.02.20-12.48.09:830][ 16]BlueprintEditorCompileResults:Error: Error The property associated with  Melee 1H  could not be found
+[2018.02.20-12.48.09:830][ 16]BlueprintEditorCompileResults:Error: Error The property associated with  Mana  could not be found
+[2018.02.20-12.48.09:830][ 16]BlueprintEditorCompileResults:Error: Error The property associated with  Mana  could not be found
+[2018.02.20-12.48.09:831][ 16]BlueprintEditorCompileResults:Error: Error The property associated with  Mana  could not be found
+[2018.02.20-12.48.09:831][ 16]BlueprintEditorCompileResults:Error: Error The property associated with  Melee 1H  could not be found
+[2018.02.20-12.48.09:831][ 16]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  Cast Failed
+[2018.02.20-12.48.09:831][ 16]BlueprintEditorCompileResults:Error: Error The property associated with  Health  could not be found
+[2018.02.20-12.48.09:831][ 16]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  Cast Failed
+[2018.02.20-12.48.09:831][ 16]BlueprintEditorCompileResults:Error: Error The property associated with  Mana  could not be found
+[2018.02.20-12.48.09:831][ 16]LogBlueprint:Warning: [Compiler RPG_HUD] Warning [0887.23] Compile of RPG_HUD failed. 7 Fatal Issue(s) 7 Warning(s) [in 417 ms] (/Game/TopDownBP/Blueprints/RPG_HUD.RPG_HUD)
+[2018.02.20-12.48.09:831][ 16]BlueprintLog: New page: Compile RPG_HUD
+[2018.02.20-12.48.09:860][ 16]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Mana
+[2018.02.20-12.48.09:860][ 16]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Mana
+[2018.02.20-12.48.09:860][ 16]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Set Mana
+[2018.02.20-12.48.09:860][ 16]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Melee1H" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Set Melee1H
+[2018.02.20-12.48.09:860][ 16]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Melee1H" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Set Melee1H
+[2018.02.20-12.48.09:861][ 16]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Health" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Health
+[2018.02.20-12.48.09:862][ 16]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Mana
+[2018.02.20-12.48.09:862][ 16]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Melee 1H  could not be found
+[2018.02.20-12.48.09:862][ 16]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Mana  could not be found
+[2018.02.20-12.48.09:862][ 16]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Mana  could not be found
+[2018.02.20-12.48.09:863][ 16]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Mana  could not be found
+[2018.02.20-12.48.09:863][ 16]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Melee 1H  could not be found
+[2018.02.20-12.48.09:863][ 16]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Health  could not be found
+[2018.02.20-12.48.09:864][ 16]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Mana  could not be found
+[2018.02.20-12.48.10:158][ 16]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Mana
+[2018.02.20-12.48.10:158][ 16]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Mana
+[2018.02.20-12.48.10:158][ 16]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Set Mana
+[2018.02.20-12.48.10:158][ 16]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Melee1H" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Set Melee1H
+[2018.02.20-12.48.10:158][ 16]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Melee1H" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Set Melee1H
+[2018.02.20-12.48.10:158][ 16]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Health" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Health
+[2018.02.20-12.48.10:158][ 16]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Mana
+[2018.02.20-12.48.10:158][ 16]BlueprintEditorCompileResults:Error: Error The property associated with  Melee 1H  could not be found
+[2018.02.20-12.48.10:158][ 16]BlueprintEditorCompileResults:Error: Error The property associated with  Mana  could not be found
+[2018.02.20-12.48.10:158][ 16]BlueprintEditorCompileResults:Error: Error The property associated with  Mana  could not be found
+[2018.02.20-12.48.10:158][ 16]BlueprintEditorCompileResults:Error: Error The property associated with  Mana  could not be found
+[2018.02.20-12.48.10:158][ 16]BlueprintEditorCompileResults:Error: Error The property associated with  Melee 1H  could not be found
+[2018.02.20-12.48.10:158][ 16]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  Cast Failed
+[2018.02.20-12.48.10:159][ 16]BlueprintEditorCompileResults:Error: Error The property associated with  Health  could not be found
+[2018.02.20-12.48.10:159][ 16]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  Cast Failed
+[2018.02.20-12.48.10:159][ 16]BlueprintEditorCompileResults:Error: Error The property associated with  Mana  could not be found
+[2018.02.20-12.48.10:159][ 16]LogBlueprint:Warning: [Compiler RPG_HUD] Warning [0887.56] Compile of RPG_HUD failed. 7 Fatal Issue(s) 7 Warning(s) [in 326 ms] (/Game/TopDownBP/Blueprints/RPG_HUD.RPG_HUD)
+[2018.02.20-12.48.15:644][ 51]LogSlate: Took 0.010327 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.20-12.50.26:614][ 39]BlueprintLog: New page: Compile TopDownCharacter
+[2018.02.20-12.50.26:678][ 39]LogBlueprint:Warning: [RPG_HUD] 'Health' variable not found. Base class was probably changed.
+[2018.02.20-12.50.26:678][ 39]LogBlueprint:Warning: [RPG_HUD] 'Mana' variable not found. Base class was probably changed.
+[2018.02.20-12.50.26:688][ 39]LogBlueprint:Warning: [RPG_HUD] 'Melee1H' variable not found. Base class was probably changed.
+[2018.02.20-12.50.26:688][ 39]LogBlueprint:Warning: [RPG_HUD] 'Melee1H' variable not found. Base class was probably changed.
+[2018.02.20-12.50.26:688][ 39]LogBlueprint:Warning: [RPG_HUD] 'Melee1H' variable not found. Base class was probably changed.
+[2018.02.20-12.50.26:688][ 39]LogBlueprint:Warning: [RPG_HUD] 'Melee1H' variable not found. Base class was probably changed.
+[2018.02.20-12.50.26:688][ 39]LogBlueprint:Warning: [RPG_HUD] 'Mana' variable not found. Base class was probably changed.
+[2018.02.20-12.50.26:688][ 39]LogBlueprint:Warning: [RPG_HUD] 'Mana' variable not found. Base class was probably changed.
+[2018.02.20-12.50.26:689][ 39]LogBlueprint:Warning: [RPG_HUD] 'Mana' variable not found. Base class was probably changed.
+[2018.02.20-12.50.26:689][ 39]LogBlueprint:Warning: [RPG_HUD] 'Mana' variable not found. Base class was probably changed.
+[2018.02.20-12.50.26:743][ 39]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Mana
+[2018.02.20-12.50.26:743][ 39]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Mana
+[2018.02.20-12.50.26:744][ 39]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Set Mana
+[2018.02.20-12.50.26:744][ 39]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Melee1H" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Set Melee1H
+[2018.02.20-12.50.26:744][ 39]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Melee1H" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Set Melee1H
+[2018.02.20-12.50.26:745][ 39]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Health" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Health
+[2018.02.20-12.50.26:746][ 39]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Mana
+[2018.02.20-12.50.26:746][ 39]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Melee 1H  could not be found
+[2018.02.20-12.50.26:747][ 39]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Mana  could not be found
+[2018.02.20-12.50.26:747][ 39]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Mana  could not be found
+[2018.02.20-12.50.26:747][ 39]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Mana  could not be found
+[2018.02.20-12.50.26:747][ 39]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Melee 1H  could not be found
+[2018.02.20-12.50.26:748][ 39]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Health  could not be found
+[2018.02.20-12.50.26:749][ 39]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Mana  could not be found
+[2018.02.20-12.51.08:098][365]BlueprintLog: New page: Compile RPG_HUD
+[2018.02.20-12.51.08:186][365]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Health" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Health
+[2018.02.20-12.51.08:187][365]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Mana
+[2018.02.20-12.51.08:188][365]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Health  could not be found
+[2018.02.20-12.51.08:188][365]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Mana  could not be found
+[2018.02.20-12.51.08:570][365]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Health" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Health
+[2018.02.20-12.51.08:570][365]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Mana
+[2018.02.20-12.51.08:570][365]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  Cast Failed
+[2018.02.20-12.51.08:570][365]BlueprintEditorCompileResults:Error: Error The property associated with  Health  could not be found
+[2018.02.20-12.51.08:570][365]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  Cast Failed
+[2018.02.20-12.51.08:570][365]BlueprintEditorCompileResults:Error: Error The property associated with  Mana  could not be found
+[2018.02.20-12.51.08:571][365]LogBlueprint:Warning: [Compiler RPG_HUD] Warning [1065.97] Compile of RPG_HUD failed. 2 Fatal Issue(s) 2 Warning(s) [in 472 ms] (/Game/TopDownBP/Blueprints/RPG_HUD.RPG_HUD)
+[2018.02.20-12.52.06:763][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/RPG_HUD" FILE="../../../../../../Users/Kamil/Desktop/Repo_Mati/Content/TopDownBP/Blueprints/RPG_HUD.uasset" SILENT=true
+[2018.02.20-12.52.06:836][826]LogSavePackage: Save=56.78ms
+[2018.02.20-12.52.06:836][826]LogSavePackage: Moving '../../../../../../Users/Kamil/Desktop/Repo_Mati/Saved/RPG_HUD315AFDBD4CE36FCE39D26CAD744B0A81.tmp' to '../../../../../../Users/Kamil/Desktop/Repo_Mati/Content/TopDownBP/Blueprints/RPG_HUD.uasset'
+[2018.02.20-12.52.06:842][826]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Kamil/Desktop/Repo_Mati/Content/TopDownBP/Blueprints/RPG_HUD.uasset
+[2018.02.20-12.52.12:135][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownCharacter" FILE="../../../../../../Users/Kamil/Desktop/Repo_Mati/Content/TopDownBP/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2018.02.20-12.52.12:276][868]LogSavePackage: Save=126.31ms
+[2018.02.20-12.52.12:276][868]LogSavePackage: Moving '../../../../../../Users/Kamil/Desktop/Repo_Mati/Saved/TopDownCharacter466F1E4F4E07EDD7080BDA90F2BCDB67.tmp' to '../../../../../../Users/Kamil/Desktop/Repo_Mati/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2018.02.20-12.52.12:297][868]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Kamil/Desktop/Repo_Mati/Content/TopDownBP/Blueprints/TopDownCharacter.uasset
+[2018.02.20-12.53.12:410][242]LogSlate: Took 0.019174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.02.20-12.55.34:306][ 88]BlueprintLog: New page: Compile RPG_HUD
+[2018.02.20-12.55.34:440][ 88]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Health" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Health
+[2018.02.20-12.55.34:440][ 88]LogBlueprint:Warning: [Compiler RPG_HUD] Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Mana
+[2018.02.20-12.55.34:441][ 88]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Health  could not be found
+[2018.02.20-12.55.34:442][ 88]LogBlueprint:Error: [Compiler RPG_HUD] Error The property associated with  Mana  could not be found
+[2018.02.20-12.55.34:862][ 88]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Health" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Health
+[2018.02.20-12.55.34:862][ 88]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Mana" in 'TopDownCharacter_C'.
+Make sure 'TopDownCharacter_C' has been compiled for  Get Mana
+[2018.02.20-12.55.34:862][ 88]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  Cast Failed
+[2018.02.20-12.55.34:862][ 88]BlueprintEditorCompileResults:Error: Error The property associated with  Health  could not be found
+[2018.02.20-12.55.34:862][ 88]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  Cast Failed
+[2018.02.20-12.55.34:862][ 88]BlueprintEditorCompileResults:Error: Error The property associated with  Mana  could not be found
+[2018.02.20-12.55.34:862][ 88]LogBlueprint:Warning: [Compiler RPG_HUD] Warning [1332.27] Compile of RPG_HUD failed. 2 Fatal Issue(s) 2 Warning(s) [in 556 ms] (/Game/TopDownBP/Blueprints/RPG_HUD.RPG_HUD)
+[2018.02.20-12.55.42:605][151]BlueprintLog: New page: Compile TopDownCharacter
+[2018.02.20-12.55.47:351][179]BlueprintLog: New page: Compile RPG_HUD
+[2018.02.20-12.55.47:765][179]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  Cast Failed
+[2018.02.20-12.55.47:765][179]BlueprintEditorCompileResults: Info The execution path doesn't end with a return node.  Cast Failed
+[2018.02.20-12.55.50:198][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/TopDownCharacter" FILE="../../../../../../Users/Kamil/Desktop/Repo_Mati/Content/TopDownBP/Blueprints/TopDownCharacter.uasset" SILENT=true
+[2018.02.20-12.55.50:365][195]LogSavePackage: Save=149.08ms
+[2018.02.20-12.55.50:365][195]LogSavePackage: Moving '../../../../../../Users/Kamil/Desktop/Repo_Mati/Saved/TopDownCharacter37C23511404E8658606A96B62350E65C.tmp' to '../../../../../../Users/Kamil/Desktop/Repo_Mati/Content/TopDownBP/Blueprints/TopDownCharacter.uasset'
+[2018.02.20-12.55.50:369][195]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Kamil/Desktop/Repo_Mati/Content/TopDownBP/Blueprints/TopDownCharacter.uasset
+[2018.02.20-12.55.52:131][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/RPG_HUD" FILE="../../../../../../Users/Kamil/Desktop/Repo_Mati/Content/TopDownBP/Blueprints/RPG_HUD.uasset" SILENT=true
+[2018.02.20-12.55.52:205][208]LogSavePackage: Save=57.69ms
+[2018.02.20-12.55.52:206][208]LogSavePackage: Moving '../../../../../../Users/Kamil/Desktop/Repo_Mati/Saved/RPG_HUD23E847B34D1DF40CD4B49B920D7625E4.tmp' to '../../../../../../Users/Kamil/Desktop/Repo_Mati/Content/TopDownBP/Blueprints/RPG_HUD.uasset'
+[2018.02.20-12.55.52:226][208]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Kamil/Desktop/Repo_Mati/Content/TopDownBP/Blueprints/RPG_HUD.uasset
+[2018.02.20-12.55.59:598][293]LogRenderer: Reallocating scene render targets to support 752x372 NumSamples 1 (Frame:8117).
+[2018.02.20-12.55.59:672][294]LogRenderer: Reallocating scene render targets to support 752x412 NumSamples 1 (Frame:8119).
+[2018.02.20-12.55.59:788][295]LogRenderer: Reallocating scene render targets to support 752x448 NumSamples 1 (Frame:8121).
+[2018.02.20-12.55.59:861][296]LogRenderer: Reallocating scene render targets to support 752x492 NumSamples 1 (Frame:8123).
+[2018.02.20-12.55.59:972][297]LogRenderer: Reallocating scene render targets to support 752x512 NumSamples 1 (Frame:8125).
+[2018.02.20-12.56.00:032][298]LogRenderer: Reallocating scene render targets to support 752x528 NumSamples 1 (Frame:8127).
+[2018.02.20-12.56.00:098][299]LogRenderer: Reallocating scene render targets to support 752x532 NumSamples 1 (Frame:8129).
+[2018.02.20-12.56.00:160][300]LogRenderer: Reallocating scene render targets to support 752x536 NumSamples 1 (Frame:8131).
+[2018.02.20-12.56.00:274][301]LogRenderer: Reallocating scene render targets to support 752x548 NumSamples 1 (Frame:8133).
+[2018.02.20-12.56.00:368][302]LogRenderer: Reallocating scene render targets to support 752x568 NumSamples 1 (Frame:8135).
+[2018.02.20-12.56.00:513][304]LogRenderer: Reallocating scene render targets to support 752x572 NumSamples 1 (Frame:8139).
+[2018.02.20-12.56.01:984][328]LogTemp: Repeting last play command: Selected Viewport
+[2018.02.20-12.56.02:056][328]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.20-12.56.02:057][328]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.20-12.56.02:065][328]PIE: New page: PIE session: TopDownExampleMap (Feb 20, 2018, 2:56:02 PM)
+[2018.02.20-12.56.02:065][328]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.02.20-12.56.02:102][328]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037275s)
+[2018.02.20-12.56.02:104][328]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.02.20-12.56.02:105][328]LogPlayLevel: PIE: World Init took: (0.002496s)
+[2018.02.20-12.56.02:105][328]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.040299s)
+[2018.02.20-12.56.02:158][328]LogInit: XAudio2 using 'Głośniki (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.20-12.56.02:171][328]LogInit: FAudioDevice initialized.
+[2018.02.20-12.56.02:229][328]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.02.20-12.56.02:236][328]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2018.02.20-13.56.02
+[2018.02.20-12.56.02:236][328]LogWorld: Bringing up level for play took: 0.005398
+[2018.02.20-12.56.02:291][328]PIE: Info Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.868
+[2018.02.20-12.56.02:292][328]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.20-12.56.50:915][ 80]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.20-12.56.51:054][ 80]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.02.20-12.56.55:852][142]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Blueprints/RPG_HUD" FILE="../../../../../../Users/Kamil/Desktop/Repo_Mati/Content/TopDownBP/Blueprints/RPG_HUD.uasset" SILENT=true
+[2018.02.20-12.56.55:939][142]LogSavePackage: Save=66.27ms
+[2018.02.20-12.56.55:939][142]LogSavePackage: Moving '../../../../../../Users/Kamil/Desktop/Repo_Mati/Saved/RPG_HUDF5B4863547289BC93A439BA015D8C274.tmp' to '../../../../../../Users/Kamil/Desktop/Repo_Mati/Content/TopDownBP/Blueprints/RPG_HUD.uasset'
+[2018.02.20-12.56.55:943][142]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Kamil/Desktop/Repo_Mati/Content/TopDownBP/Blueprints/RPG_HUD.uasset
+[2018.02.20-12.56.58:435][169]LogSavePackage: Save=314.65ms
+[2018.02.20-12.56.58:435][169]LogSavePackage: Moving '../../../../../../Users/Kamil/Desktop/Repo_Mati/Saved/TopDownExampleMap91140E1E4585EE17472533BFCE3F6EFE.tmp' to '../../../../../../Users/Kamil/Desktop/Repo_Mati/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.02.20-12.56.58:441][169]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Kamil/Desktop/Repo_Mati/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.02.20-12.56.58:683][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData" FILE="../../../../../../Users/Kamil/Desktop/Repo_Mati/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset" SILENT=true
+[2018.02.20-12.56.58:932][169]LogSavePackage: Save=223.05ms
+[2018.02.20-12.56.58:932][169]LogSavePackage: Moving '../../../../../../Users/Kamil/Desktop/Repo_Mati/Saved/TopDownExampleMap_BuiltData0C02BE444A30D16CB44EFFA45C12D96F.tmp' to '../../../../../../Users/Kamil/Desktop/Repo_Mati/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2018.02.20-12.56.58:936][169]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Kamil/Desktop/Repo_Mati/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
+[2018.02.20-12.57.15:700][423]MapCheck: New page: Map Check
+[2018.02.20-12.57.15:795][423]LightingResults: New page: Lighting Build - Feb 20, 2018, 2:57:15 PM
+[2018.02.20-12.57.16:724][423]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.02.20-12.57.16:943][423]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.02.20-12.57.17:030][423]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.02.20-12.57.19:957][423]LogSwarmInterface:Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2018.02.20-12.57.20:115][423]LogSwarmInterface:Error: System.Net.Sockets.SocketException (0x80004005): Nie można nawiązać połączenia, ponieważ komputer docelowy aktywnie go odmawia 127.0.0.1:8008
+
+Server stack trace: 
+   w System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   w System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   w System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   w System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   w System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   w System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   w System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   w System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   w System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   w NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   w NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags)
+[2018.02.20-12.57.25:550][423]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.02.20-12.57.25:550][423]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7468
+[2018.02.20-12.57.27:372][423]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.02.20-12.57.27:372][423]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.02.20-12.57.27:372][423]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.02.20-12.57.27:372][423]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.02.20-12.57.27:372][423]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.02.20-12.57.28:468][423]LogEditorBuildUtils: Build time 0:12
+[2018.02.20-12.57.49:505][850]Job is a success!
+[2018.02.20-12.57.51:455][851]LogTexture:Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024) - 148 MB total VRAM
+[2018.02.20-12.57.51:455][851]LogTexture:Display: Building textures: SkyOcclusion0_2 (AutoDXT, 512X256) - 148 MB total VRAM
+[2018.02.20-12.57.51:455][851]LogTexture:Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512) - 148 MB total VRAM
+[2018.02.20-12.57.51:455][851]LogTexture:Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024) - 148 MB total VRAM
+[2018.02.20-12.57.51:549][851]LogTexture:Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512) - 148 MB total VRAM
+[2018.02.20-12.57.51:549][851]LogTexture:Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512) - 148 MB total VRAM
+[2018.02.20-12.57.51:549][851]LogTexture:Display: Building textures: SkyOcclusion0_3 (AutoDXT, 64X32) - 148 MB total VRAM
+[2018.02.20-12.57.51:549][851]LogTexture:Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64) - 148 MB total VRAM
+[2018.02.20-12.57.51:549][851]LogTexture:Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64) - 148 MB total VRAM
+[2018.02.20-12.57.52:291][851]LogTexture:Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32) - 148 MB total VRAM
+[2018.02.20-12.57.52:741][851]LogTexture:Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024) - 148 MB total VRAM
+[2018.02.20-12.57.53:513][851]Lightmass on THAIS: 20.4 sec total, 1.72 sec importing, 2.60 sec setup, 3.09 sec photons, 12.6 sec processing, 0 ms extra exporting [29/29 mappings]. Threads: 1:28 min total, 37.5 sec processing.
+[2018.02.20-12.57.53:593][851]LogStaticLightingSystem: Illumination: 37.6 sec (1.11 sec encoding lightmaps, 1.19 sec encoding shadowmaps)
+[2018.02.20-12.57.53:593][851]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (3.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2018.02.20-12.57.53:593][851]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.02.20-12.57.54:506][851]DumpUnbuiltLightIteractions
+[2018.02.20-12.57.54:506][851]Lights with unbuilt interactions: 0
+[2018.02.20-12.57.54:506][851]
+[2018.02.20-12.57.54:506][851]Primitives with unbuilt interactions: 0
+[2018.02.20-12.57.54:600][852]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.02.20-12.57.54:600][852]MapCheck: New page: TopDownExampleMap - Feb 20, 2018, 2:57:54 PM
+[2018.02.20-12.57.54:961][852]MapCheck:Warning: Warning Mieczyk_Bryła1_2 Static mesh actor has NULL StaticMesh property 
+[2018.02.20-12.57.54:961][852]MapCheck:Warning: Warning Mieczyk_Bryła1_2 Static mesh actor has NULL StaticMesh property 
+[2018.02.20-12.57.54:961][852]MapCheck:Warning: Warning Mieczyk_Bryła2_5 Static mesh actor has NULL StaticMesh property 
+[2018.02.20-12.57.54:961][852]MapCheck:Warning: Warning Mieczyk_Bryła2_5 Static mesh actor has NULL StaticMesh property 
+[2018.02.20-12.57.54:961][852]MapCheck:Warning: Warning tarczav2_11 Static mesh actor has NULL StaticMesh property 
+[2018.02.20-12.57.54:961][852]MapCheck:Warning: Warning tarczav2_11 Static mesh actor has NULL StaticMesh property 
+[2018.02.20-12.57.54:962][852]MapCheck:Warning: Warning tarczav3_14 Static mesh actor has NULL StaticMesh property 
+[2018.02.20-12.57.54:962][852]MapCheck:Warning: Warning tarczav3_14 Static mesh actor has NULL StaticMesh property 
+[2018.02.20-12.57.54:962][852]MapCheck:Warning: Warning tarczav4_17 Static mesh actor has NULL StaticMesh property 
+[2018.02.20-12.57.54:962][852]MapCheck:Warning: Warning tarczav4_17 Static mesh actor has NULL StaticMesh property 
+[2018.02.20-12.57.55:056][852]MapCheck: Info Map check complete: 0 Error(s), 10 Warning(s), took 456.467ms to complete.
+[2018.02.20-12.58.26:096][285]SourceControl: Info fatal: C:/Program Files/Epic Games/UE_4.15/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.15/Engine/Content/' is outside repository
+[2018.02.20-12.58.28:990][285]LogSavePackage: Save=430.08ms
+[2018.02.20-12.58.28:990][285]LogSavePackage: Moving '../../../../../../Users/Kamil/Desktop/Repo_Mati/Saved/TopDownExampleMap53A585CE48B581001974C39581A14ED9.tmp' to '../../../../../../Users/Kamil/Desktop/Repo_Mati/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.02.20-12.58.28:997][285]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Kamil/Desktop/Repo_Mati/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.02.20-12.58.29:126][285]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.718
+[2018.02.20-12.58.29:162][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDownBP/Maps/TopDownExampleMap_BuiltData" FILE="../../../../../../Users/Kamil/Desktop/Repo_Mati/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset" SILENT=true
+[2018.02.20-12.58.29:408][285]LogSavePackage: Save=217.69ms
+[2018.02.20-12.58.29:408][285]LogSavePackage: Moving '../../../../../../Users/Kamil/Desktop/Repo_Mati/Saved/TopDownExampleMap_BuiltDataD54D91DF451B05A9208DD798E4392B10.tmp' to '../../../../../../Users/Kamil/Desktop/Repo_Mati/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2018.02.20-12.58.29:412][285]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Kamil/Desktop/Repo_Mati/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset
+[2018.02.20-12.58.29:466][285]LogPackageName:Error: Illegal call to DoesPackageExist: '../../../../../../Users/Kamil/Desktop/Repo_Mati/Game.uproject' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.02.20-12.58.30:591][285]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.116 s
+[2018.02.20-12.58.30:591][285]LogOutputDevice:Error: === Handled ensure: ===
+[2018.02.20-12.58.30:591][285]LogOutputDevice:Error: 
+[2018.02.20-12.58.30:591][285]LogOutputDevice:Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.15+Compile\Sync\Engine\Source\Runtime\CoreUObject\Private\Misc\PackageName.cpp] [Line: 650]
+[2018.02.20-12.58.30:592][285]LogOutputDevice:Error: Illegal call to DoesPackageExist: '../../../../../../Users/Kamil/Desktop/Repo_Mati/Game.uproject' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2018.02.20-12.58.30:592][285]LogOutputDevice:Error: Stack: 
+[2018.02.20-12.58.30:592][285]LogOutputDevice:Error: UE4Editor-Core.dll!0x00000000CA3D95E6
+[2018.02.20-12.58.30:592][285]LogOutputDevice:Error: UE4Editor-Core.dll!0x00000000CA189B82
+[2018.02.20-12.58.30:592][285]LogOutputDevice:Error: UE4Editor-Core.dll!0x00000000CA19B666
+[2018.02.20-12.58.30:592][285]LogOutputDevice:Error: UE4Editor-CoreUObject.dll!0x00000000D20BA6E8
+[2018.02.20-12.58.30:592][285]LogOutputDevice:Error: UE4Editor-SourceControl.dll!0x00000000DFFD3D22
+[2018.02.20-12.58.30:592][285]LogOutputDevice:Error: UE4Editor-SourceControl.dll!0x00000000DFFD3EB9
+[2018.02.20-12.58.30:592][285]LogOutputDevice:Error: UE4Editor-SourceControlWindows.dll!0x00000000ACF91D2E
+[2018.02.20-12.58.30:592][285]LogOutputDevice:Error: UE4Editor-SourceControlWindows.dll!0x00000000ACF4B4B5
+[2018.02.20-12.58.30:592][285]LogOutputDevice:Error: UE4Editor-SourceControlWindows.dll!0x00000000ACF4AA8D
+[2018.02.20-12.58.30:592][285]LogOutputDevice:Error: UE4Editor-SourceControlWindows.dll!0x00000000ACF5F274
+[2018.02.20-12.58.30:592][285]LogOutputDevice:Error: UE4Editor-GitSourceControl.dll!0x00000000A50AB851
+[2018.02.20-12.58.30:592][285]LogOutputDevice:Error: UE4Editor-GitSourceControl.dll!0x00000000A50BD1ED
+[2018.02.20-12.58.30:592][285]LogOutputDevice:Error: UE4Editor-SourceControl.dll!0x00000000DFFD9C5C
+[2018.02.20-12.58.30:592][285]LogOutputDevice:Error: UE4Editor-UnrealEd.dll!0x00000000BE647517
+[2018.02.20-12.58.30:592][285]LogOutputDevice:Error: UE4Editor-UnrealEd.dll!0x00000000BEE52196
+[2018.02.20-12.58.30:592][285]LogOutputDevice:Error: UE4Editor.exe!0x0000000041B4DEE3
+[2018.02.20-12.58.30:592][285]LogOutputDevice:Error: UE4Editor.exe!0x0000000041B3EB40
+[2018.02.20-12.58.30:592][285]LogOutputDevice:Error: UE4Editor.exe!0x0000000041B3EBBA
+[2018.02.20-12.58.30:592][285]LogOutputDevice:Error: UE4Editor.exe!0x0000000041B50A29
+[2018.02.20-12.58.30:592][285]LogOutputDevice:Error: UE4Editor.exe!0x0000000041B522B6
+[2018.02.20-12.58.30:592][285]LogOutputDevice:Error: KERNEL32.DLL!0x00000000FCC813D2
+[2018.02.20-12.58.30:592][285]LogOutputDevice:Error: ntdll.dll!0x00000000FD8654F4
+[2018.02.20-12.58.30:592][285]LogOutputDevice:Error: 
+[2018.02.20-12.58.30:598][285]LogStats:                SubmitErrorReport -  0.000 s
+[2018.02.20-12.58.42:564][285]LogStats:                    SendNewReport - 11.966 s
+[2018.02.20-12.58.42:564][285]LogStats:             FDebug::EnsureFailed - 13.097 s
